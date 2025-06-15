@@ -1,6 +1,6 @@
 # 📊 B3 Portfolio
 
-**B3 Portfolio** is a web-based portfolio and income tax calculator for Brazilian variable income investors. It helps users track their positions in stocks and FIIs (fundos imobiliários), calculate profit and loss per month, and generate IR-ready reports.
+**B3 Portfolio** is a web-based portfolio and income tax calculator for Brazilian variable income investors. It helps users track their positions in stocks and FIIs (fundos imobiliários), calculate profit and loss per month, and generate IR-ready reports. Just import your B3 movement report and you are ready!
 
 ## 🚀 Features
 
